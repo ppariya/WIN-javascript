@@ -1,0 +1,9 @@
+git workflow
+-create branch and checkout
+-work on file
+-commit any meaningful milestones in dev process
+-make sure master branch is up to date with feature branch (git pull)
+-merge local master with feature branch
+-merge feature branch into master
+-delete feature branch once merge is completed
+-

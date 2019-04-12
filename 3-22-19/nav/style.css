@@ -1,0 +1,152 @@
+-webkit-transition: all 4s ease;
+-moz-transition: all 4s ease;
+-ms-transition: all 4s ease;
+-o-transition: all 4s ease;
+transition: all 4s ease;
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  body {
+    margin: 0;
+    
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  blockquote,
+  figure,
+  ol,
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  main,
+  li {
+    display: block;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-size: inherit;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  a,
+  button {
+    color: inherit;
+    transition: .3s;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  button {
+    overflow: visible;
+    border: 0;
+    font: inherit;
+    -webkit-font-smoothing: inherit;
+    letter-spacing: inherit;
+    background: none;
+    cursor: pointer;
+  }
+  
+  ::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+  }
+  
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 0;
+  }
+  
+body{
+    background-color: whitesmoke;
+    
+}
+
+
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+    font-family: 'Athiti';
+    color:white;
+    font-size: 22px;
+    
+    
+}
+
+a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 40px 36px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 1000;
+}
+input{
+    position: fixed;
+    margin-top: 7px;
+    padding: 5px;
+}
+#search{
+    position: fixed;
+    margin-top:-18px;
+    margin-left: 165px;
+    width: 29.5px;
+    height: 29.5px;
+    background-color: #00b7ffd8
+}
+#cart{
+    float: right;
+    padding-right: 10px;
+    width: 25px;
+    height: 20px;
+    background-color: #ffffff
+}
+.active{
+    background-color: #ff3300d8;
+    font-size: 60px;
+    padding: 7px;
+    font-weight: 100;
+}
+
+.container{
+    padding: 5px;    
+        
+    float: right;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  

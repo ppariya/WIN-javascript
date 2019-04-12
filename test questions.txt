@@ -1,0 +1,11 @@
+CSS
+CSS selector and specificity and tell me how does it work
+what is the diff normalizing and resetting CSS?-resetting CSS removes all browser styling and make all standard elements look the same
+					       -normalizing CSS makes it looks the same all across browsers
+Tell me floats - how an element should float
+what is z-index- specifies the stack order of an element. n element with greater stack order is always in front of an element with a lower stack order. 
+block formatting context(BFC)-part of the visual CSS rendering of a web page in which block boxes are laid out
+diff b/w class and id- id is unique and use for a single element. class can be used with group elements. Class uses for styling and target certain elements. can be used multiple times.
+hide some content- add a hidden attribute, visibility property
+diff b/w display-inline and in-line block-  The display: inline-block Value. Compared to display: inline , the major difference is that display: inline-block allows to set a width and 					height on the element. Also, with display: inline-block , the top and bottom margins/paddings are respected, but with display: inline they are not.
+
