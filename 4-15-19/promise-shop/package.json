@@ -1,0 +1,18 @@
+{
+  "name": "promise-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "stuff"
+  ],
+  "author": "Fah",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.6"
+  }
+}
